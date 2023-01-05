@@ -1,4 +1,4 @@
-python3 ./hotsearch/hotsearch.py
+python3 ./hotsearch/zhihuhotquestion.py
 python3 ./hotquestion/hotquestion.py
 
 
